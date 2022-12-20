@@ -83,7 +83,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## Integrations
 
-## Terminal
+### Terminal
 - [ai-cli](https://github.com/abhagsain/ai-cli): Get answers for CLI commands from GPT3 right from your terminal
 
 
