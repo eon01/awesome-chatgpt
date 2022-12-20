@@ -4,6 +4,35 @@
 
 👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
 
+- [Awesome ChatGPT:](#awesome-chatgpt)
+  - [Official Resources](#official-resources)
+  - [Developer Libraries, SDKs, and APIs](#developer-libraries-sdks-and-apis)
+    - [Python](#python)
+    - [JavaScript](#javascript)
+    - [Golang](#golang)
+    - [Rust](#rust)
+    - [TypeScript](#typescript)
+    - [Kotlin](#kotlin)
+  - [Browser Extensions](#browser-extensions)
+    - [Chrome](#chrome)
+    - [Firefox](#firefox)
+  - [Integrations](#integrations)
+    - [Terminal](#terminal)
+    - [NeoVim](#neovim)
+    - [WhatsApp](#whatsapp)
+    - [Telegram](#telegram)
+    - [Slack](#slack)
+    - [Discord](#discord)
+    - [VSCode](#vscode)
+    - [Google Docs](#google-docs)
+    - [JetBrains IDE](#jetbrains-ide)
+    - [Wordpress](#wordpress)
+    - [Raycast](#raycast)
+    - [WeChat](#wechat)
+    - [Prompts](#prompts)
+  - [AI Assistants](#ai-assistants)
+  - [Desktop Apps](#desktop-apps)
+  - [Twitter Bots](#twitter-bots)
 
 
 # Awesome ChatGPT: 
