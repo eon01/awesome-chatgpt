@@ -42,7 +42,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): A browser extension that augments your ChatGPT prompts with web results.
-- [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site): https://github.com/clmnin/summarize.site
+- [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot): A GPTChat based GitHub robot. dialogue/CR/etc..
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
 
@@ -130,7 +130,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## AI Assistants
 - [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
-- [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site): https://github.com/clmnin/summarize.site
+- [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
 
