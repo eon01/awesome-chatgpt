@@ -2,7 +2,12 @@
 
 ❤️ **Brought to you by [Kala: AI/ML Weekly Newsletter - Curated AI/ML news, tutorials, tools, jobs and more!](https://faun.dev/newsletter/kala).**
 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/joinFAUN?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt)
+
 👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
+
 
 
 
