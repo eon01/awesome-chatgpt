@@ -1,18 +1,22 @@
 [![Header](img/header.png)](https://faun.dev/newsletter/kala)
 
-❤️ **Brought to you by [Kala: AI/ML Weekly Newsletter - Curated AI/ML news, tutorials, tools, jobs and more!](https://faun.dev/newsletter/kala).**
+# Brought To You By:
+❤️ [Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, jobs and more!.
 
 
+# Follow & Share
 [![Twitter Follow](https://img.shields.io/twitter/follow/joinFAUN?style=social)](https://twitter.com/joinFAUN)
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt)](https://twitter.com/intent/tweet?text=%E2%9A%99%EF%B8%8F%20A%20curated%20list%20of%20awesome%20ChatGPT%20resources,%20libraries,%20SDKs,%20APIs,%20and%20more.%0A%0A%0Ahttps%3A//github.com/eon01/awesome-chatgpt%0A%0A%23ChatGPT%20%23OpenAI%20%23AIAssistant%20%23ML%20%23AI%20)
 
+# Call for Contributions
 👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
 
+# Table of Contents
 
-
-
-## Table of Contents
-
+- [Brought To You By:](#brought-to-you-by)
+- [Follow \& Share](#follow--share)
+- [Call](#call)
+- [Table of Contents](#table-of-contents)
 - [Awesome ChatGPT:](#awesome-chatgpt)
   - [Official Resources](#official-resources)
   - [Developer Libraries, SDKs, and APIs](#developer-libraries-sdks-and-apis)
