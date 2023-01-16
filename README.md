@@ -108,6 +108,9 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Kotlin
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
 
+### Swift
+- [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
+
 ## Browser Extensions
 
 ### Chrome
