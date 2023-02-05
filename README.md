@@ -15,9 +15,9 @@
 
 - [Brought To You By:](#brought-to-you-by)
 - [Follow \& Share](#follow--share)
-- [Call](#call)
+- [Call for Contributions](#call-for-contributions)
 - [Table of Contents](#table-of-contents)
-- [Awesome ChatGPT:](#awesome-chatgpt)
+- [Awesome ChatGPT](#awesome-chatgpt)
   - [Official Resources](#official-resources)
   - [Developer Libraries, SDKs, and APIs](#developer-libraries-sdks-and-apis)
     - [Python](#python)
@@ -46,9 +46,10 @@
   - [AI Assistants](#ai-assistants)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
+- [Thanks to all the contributors!](#thanks-to-all-the-contributors)
 
 
-# Awesome ChatGPT: 
+# Awesome ChatGPT
 
 A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
@@ -184,3 +185,9 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## Twitter Bots
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
+
+
+# Thanks to all the contributors!
+<a href="https://github.com/eon01/awesome-chatgpt/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=eon01/awesome-chatgpt" />
+</a>
