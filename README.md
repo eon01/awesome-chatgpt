@@ -1,6 +1,6 @@
 [![Header](img/header.png)](https://faun.dev/newsletter/kala)
 
-# Brought To You By:
+# Brought To You By
 ❤️ [Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, jobs and more!.
 
 
@@ -13,7 +13,7 @@
 
 # Table of Contents
 
-- [Brought To You By:](#brought-to-you-by)
+- [Brought To You By](#brought-to-you-by)
 - [Follow \& Share](#follow--share)
 - [Call for Contributions](#call-for-contributions)
 - [Table of Contents](#table-of-contents)
@@ -26,6 +26,7 @@
     - [Rust](#rust)
     - [TypeScript](#typescript)
     - [Kotlin](#kotlin)
+    - [Swift](#swift)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
