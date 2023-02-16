@@ -27,6 +27,7 @@
     - [TypeScript](#typescript)
     - [Kotlin](#kotlin)
     - [Swift](#swift)
+    - [PHP](#php)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -112,6 +113,9 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### Swift
 - [new-man](https://github.com/weykon/new-man): New Man is a MacOS native app as a popover view for easy searching and asking.
+
+### PHP
+- [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
 
 ## Browser Extensions
 
