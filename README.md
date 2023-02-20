@@ -48,6 +48,7 @@
   - [AI Assistants](#ai-assistants)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
+  - [Email Bots](#email-bots)
 - [Thanks to all the contributors!](#thanks-to-all-the-contributors)
 
 
@@ -194,6 +195,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Twitter Bots
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
 
+## Email Bots
+- [recurai-email-bot](https://recurai.com/): Email bot powered by OpenAI's ChatGPT.
 
 # Thanks to all the contributors!
 <a href="https://github.com/eon01/awesome-chatgpt/graphs/contributors">
