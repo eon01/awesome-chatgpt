@@ -48,7 +48,7 @@
   - [AI Assistants](#ai-assistants)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
-- [More stuff](#more-stuff)
+- [Stuff](#stuff)
   - [Star History](#star-history)
   - [Thanks to all the contributors!](#thanks-to-all-the-contributors)
 
@@ -197,7 +197,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
 
 
-# More stuff
+# Stuff
 
 ## Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=eon01/awesome-chatgpt&type=Date)](https://star-history.com/#eon01/awesome-chatgpt&Date)
