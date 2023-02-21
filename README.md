@@ -152,6 +152,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### Telegram
 - [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda
+- [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram): Run your own GPTChat Telegram bot, with a single command!
 
 ### Slack
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot): A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
