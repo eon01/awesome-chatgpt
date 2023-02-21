@@ -116,6 +116,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt):Use ChatGPT On Wechat via wechaty
+- [askai](https://github.com/yudax42/askai): Command Line Interface for OpenAi ChatGPT
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 
 ### Kotlin
