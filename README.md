@@ -11,6 +11,8 @@
 # Call for Contributions
 👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
 
+**Note**: Only add resources that are related to ChatGPT and that are useful for developers (e.g: Github projects). 
+
 # Table of Contents
 
 - [Brought To You By](#brought-to-you-by)
@@ -28,6 +30,7 @@
     - [Kotlin](#kotlin)
     - [Swift](#swift)
     - [PHP](#php)
+    - [Node.js](#nodejs)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -48,6 +51,7 @@
   - [AI Assistants](#ai-assistants)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
+  - [Documentations and Tutorials](#documentations-and-tutorials)
 - [Stuff](#stuff)
   - [Star History](#star-history)
   - [Thanks to all the contributors!](#thanks-to-all-the-contributors)
@@ -110,6 +114,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt):Use ChatGPT On Wechat via wechaty
+- 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 
 ### Kotlin
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
@@ -119,6 +125,9 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### PHP
 - [ai-commit](https://github.com/guanguans/ai-commit): Automagically generate conventional commit messages with AI.
+
+### Node.js
+- [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the unofficial ChatGPT API.
 
 ## Browser Extensions
 
@@ -132,6 +141,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): A browser extension that augments your ChatGPT prompts with web results.
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
+- [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 
 
 ### Firefox
@@ -178,9 +188,11 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-raycast](https://github.com/abielzulio/chatgpt-raycast): ChatGPT raycast extension
 
 ### WeChat
+- [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt):Use ChatGPT On Wechat via wechaty
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
-
+- 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
+- 
 ### Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 - [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
@@ -193,12 +205,16 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## Desktop Apps
 
-- [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
-- [chatgpt-mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
+- [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
+- [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
+- [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
 
 ## Twitter Bots
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
 
+## Documentations and Tutorials
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+- 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
 
 # Stuff
 
