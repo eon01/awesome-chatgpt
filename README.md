@@ -51,7 +51,8 @@
   - [AI Assistants](#ai-assistants)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
-  - [Documentations and Tutorials](#documentations-and-tutorials)
+  - [Research, Papers \& Articles](#research-papers--articles)
+  - [Documentations, Tutorials \& Other Resources](#documentations-tutorials--other-resources)
 - [Stuff](#stuff)
   - [Star History](#star-history)
   - [Thanks to all the contributors!](#thanks-to-all-the-contributors)
@@ -209,13 +210,17 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
-- [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT)
+- [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## Twitter Bots
-- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT. 
+- [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
 
-## Documentations and Tutorials
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+## Research, Papers & Articles
+- [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
+ 
+## Documentations, Tutorials & Other Resources
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [ResearchGPT](https://github.com/mukulpatnaik/researchgpt): An open-source LLM based research assistant that allows you to have a conversation with a research paper
 - 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
 
 # Stuff
