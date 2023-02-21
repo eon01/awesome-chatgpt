@@ -151,7 +151,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 
 ### Telegram
-- [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/): ChatGPT Telegram Bot running in AWS Lambda
+- [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless): ChatGPT Telegram Bot running in AWS Lambda
 
 ### Slack
 - [ChatGPTSlackBot](https://github.com/pedrorito/ChatGPTSlackBot): A Slack bot that integrates with OpenAI's ChatGPT to provide answers, written in Python
