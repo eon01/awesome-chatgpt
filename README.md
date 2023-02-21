@@ -100,6 +100,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [openaigo](https://github.com/otiai10/openaigo): OpenAI (ChatGPT) API Client for Go
 - [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
 - [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework low code, extremely easy to configure by yaml 
+- [ChatGPT client (unofficial)](https://github.com/abhayptp/go-chatgpt)
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 
 ### Rust
@@ -131,6 +132,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-advanced](https://github.com/qunash/chatgpt-advanced): A browser extension that augments your ChatGPT prompts with web results.
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
+
 
 ### Firefox
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside search engine results.
