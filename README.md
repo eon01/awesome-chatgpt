@@ -43,6 +43,9 @@
     - [Swift](#swift)
     - [PHP](#php)
     - [Node.js](#nodejs)
+    - [Dart](#dart)
+    - [Java](#java)
+    - [.NET](#net)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -96,11 +99,13 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
+- [PyGPT](https://github.com/PawanOsman/PyGPT): Python implementation of Unofficial ChatGPT Client
 - 🇨🇳 [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For Telegram
 - 🇨🇳 [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
 - 🇨🇳 [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
 - 🇨🇳 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
 - 🇨🇳 [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
+- 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
 
 ### JavaScript
 
@@ -129,6 +134,9 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [tweetGPT](https://github.com/yaroslav-n/tweetGPT): TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 - [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt):Use ChatGPT On Wechat via wechaty
 - [askai](https://github.com/yudax42/askai): Command Line Interface for OpenAi ChatGPT
+- [ChatGPT-Official](https://github.com/PawanOsman/ChatGPT-Official): ChatGPT Client using official OpenAI API
+- [chatgpt-io](https://github.com/PawanOsman/chatgpt-io): Unofficial API client for ChatGPT
+- [chatgpt-api-wrapper](https://github.com/timkmecl/chatgpt-api-wrapper): Node.js wrapper for connecting to ChatGPT using official OpenAI API
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 
 ### Kotlin
@@ -142,6 +150,18 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### Node.js
 - [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the unofficial ChatGPT API.
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing. Available as a Node.js module, REST API server, and CLI app.
+- [chatgpt-api-wrapper](https://github.com/timkmecl/chatgpt-api-wrapper): Node.js wrapper for connecting to ChatGPT using official OpenAI API
+
+### Dart
+- [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart): Dart client for the unofficial ChatGPT API
+
+### Java
+- [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
+- [chatgpt-java](https://github.com/PlexPt/chatgpt-java): ChatGPT Java SDK. Uses reverse engineered official API. 
+
+### .NET
+- [ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net): Unofficial .Net Client for ChatGPT
 
 ## Browser Extensions
 
