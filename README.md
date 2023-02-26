@@ -1,8 +1,18 @@
 [![Header](img/header.png)](https://faun.dev/newsletter/kala)
 
 # Brought To You By
+
+## OpenAI GPT for Python Developers
+
+📚 [OpenAI GPT for Python Developers](https://leanpub.com/openaigptforpythondevelopers/) - The art and science of developing intelligent apps with GPT-3, DALL-E, and other OpenAI tools. A comprehensive and example-rich guide suitable for learners of all levels.
+
+[![OpenAI GPT for Python Developers](img/openai-gpt-for-python-developers.png)](https://leanpub.com/openaigptforpythondevelopers/)
+
+## Kala, My AI/ML Weekly Newsletter
+
 ❤️ [Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, jobs and more!.
 
+[![Kala](img/kala-ML-AI-Weekly-Newsletter.png)](https://faun.dev/newsletter/kala)
 
 # Follow & Share
 [![Twitter Follow](https://img.shields.io/twitter/follow/joinFAUN?style=social)](https://twitter.com/joinFAUN)
@@ -16,6 +26,8 @@
 # Table of Contents
 
 - [Brought To You By](#brought-to-you-by)
+  - [OpenAI GPT for Python Developers](#openai-gpt-for-python-developers)
+  - [Kala, My AI/ML Weekly Newsletter](#kala-my-aiml-weekly-newsletter)
 - [Follow \& Share](#follow--share)
 - [Call for Contributions](#call-for-contributions)
 - [Table of Contents](#table-of-contents)
