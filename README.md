@@ -124,6 +124,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [beelzebub](https://github.com/mariocandela/beelzebub): A secure honeypot framework low code, extremely easy to configure by yaml 
 - [ChatGPT client (unofficial)](https://github.com/abhayptp/go-chatgpt)
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
+- 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
 
 ### Rust
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
