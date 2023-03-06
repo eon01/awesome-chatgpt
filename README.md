@@ -244,6 +244,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
 
+## Web Apps
+
+- [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+
 ## Desktop Apps
 
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
