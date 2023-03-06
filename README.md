@@ -210,7 +210,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 
 ### Discord
-- [ChatGPT3Discord](https://Kav-K/GPT3Discord): A robust OpenAI integration for discord with ChatGPT queries, conversations, ChatGPT-assisted google search, document indexing, and more!
+- [ChatGPT3Discord](https://github.com/Kav-K/GPT3Discord): A robust OpenAI integration for discord with ChatGPT queries, conversations, ChatGPT-assisted google search, document indexing, and more!
 - [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord): Run your own GPTChat Discord bot, with a single command!
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
 
