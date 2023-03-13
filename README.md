@@ -161,6 +161,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Dart
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart): Dart client for the unofficial ChatGPT API
 - [OpenAI API Dart](https://github.com/anasfik/openai): Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e, Whisper..)
+- [Openai Client](https://github.com/Azzeccagarbugli/openai_client): An unofficial, platform independent, client for accessing different AI models developed by OpenAI
+- [nitmgpt](https://github.com/deskbtm/nitmgpt): Filter ads or spam notifications via ChatGPT (Notification-in-the-middle GPT). 
 
 ### Java
 - [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
@@ -245,6 +247,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
+- 
 
 ## Web Apps
 
