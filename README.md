@@ -100,7 +100,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [PyGPT](https://github.com/PawanOsman/PyGPT): Python implementation of Unofficial ChatGPT Client
-- 🇨🇳 [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For Telegram
+- [chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-base APIs
+- 🇨🇳 [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For gram
 - 🇨🇳 [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
 - 🇨🇳 [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
 - 🇨🇳 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
@@ -161,6 +162,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Dart
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart): Dart client for the unofficial ChatGPT API
 - [OpenAI API Dart](https://github.com/anasfik/openai): Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e, Whisper..)
+- [openai_client](https://github.com/Azzeccagarbugli/openai_client): An unofficial, platform independent, client for accessing different AI models developed by OpenAI
 
 ### Java
 - [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
