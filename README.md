@@ -157,10 +157,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Custom-ChatGPT](https://github.com/MohammadAtikurRahman/Custom-ChatGPT): A Custom ChatGPT built using React, Express, and Node.js. The chatbot is powered by OpenAI's text-davinci-003 language model and Custom dataset.
 
 
+
 ### Dart
 - [ChatGPT API Dart](https://github.com/MisterJimson/chatgpt_api_dart): Dart client for the unofficial ChatGPT API
 - [OpenAI API Dart](https://github.com/anasfik/openai): Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e, Whisper..)
-- [Openai Client](https://github.com/Azzeccagarbugli/openai_client): An unofficial, platform independent, client for accessing different AI models developed by OpenAI
 
 ### Java
 - [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
@@ -187,6 +187,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Firefox
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside search engine results.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
+
 
 ## Integrations
 
@@ -244,7 +245,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
-- 
 
 ## Web Apps
 
