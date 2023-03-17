@@ -100,13 +100,15 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [PyGPT](https://github.com/PawanOsman/PyGPT): Python implementation of Unofficial ChatGPT Client
-- [chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-base APIs
+- [chatgpt-telegram-bot](https://github.com/RainEggplant/chatgpt-telegram-bot): A ChatGPT bot for Telegram based on Node.js. Support both browserless and browser-base
+APIs
 - 🇨🇳 [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For gram
 - 🇨🇳 [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
 - 🇨🇳 [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
 - 🇨🇳 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
 - 🇨🇳 [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
 - 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
+- [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 
 ### JavaScript
 
@@ -269,6 +271,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ResearchGPT](https://github.com/mukulpatnaik/researchgpt): An open-source LLM based research assistant that allows you to have a conversation with a research paper
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 - 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
+- [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
 
 # Stuff
 
