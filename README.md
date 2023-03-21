@@ -64,6 +64,7 @@
     - [WeChat](#wechat)
     - [Prompts](#prompts)
   - [AI Assistants](#ai-assistants)
+  - [Web Apps](#web-apps)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
   - [Research, Papers \& Articles](#research-papers--articles)
@@ -89,6 +90,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [ChatGPT](https://github.com/acheong08/ChatGPT): Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API
 - [PyChatGPT](https://github.com/rawandahmad698/PyChatGPT): zap Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.
+- [README-AI](https://github.com/eli64s/readme-ai): Command-line tool for crafting aesthetic, structured, and informative README.md files, powered by OpenAI's language model API.
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper): API for interacting with ChatGPT using Python and from Shell.
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
