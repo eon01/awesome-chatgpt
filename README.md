@@ -1,6 +1,11 @@
 [![Header](img/header.png)](https://faun.dev/newsletter/kala)
 
-# Brought To You By
+<div align="center">
+    <h1>Awesome ChatGPT</h1>
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
+</div>
+
+## Brought To You By
 
 ## OpenAI GPT for Python Developers
 
