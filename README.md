@@ -63,6 +63,8 @@
     - [Raycast](#raycast)
     - [WeChat](#wechat)
     - [Prompts](#prompts)
+  - [Vector databases](#vector-databases)
+    - [Weaviate](#weaviate)
   - [AI Assistants](#ai-assistants)
   - [Web Apps](#web-apps)
   - [Desktop Apps](#desktop-apps)
@@ -247,6 +249,9 @@ APIs
 ### Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 - [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
+
+## Vector Databases
+- [Weaviate](https://github.com/weaviate/weaviate)
 
 ## AI Assistants
 - [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
