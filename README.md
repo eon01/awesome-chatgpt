@@ -62,6 +62,7 @@
     - [Wordpress](#wordpress)
     - [Raycast](#raycast)
     - [WeChat](#wechat)
+    - [LINE](#line)
     - [Prompts](#prompts)
   - [AI Assistants](#ai-assistants)
   - [Web Apps](#web-apps)
@@ -94,6 +95,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper): API for interacting with ChatGPT using Python and from Shell.
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
+- [chatGPT-LINE-bot](https://github.com/ctjoy/chatgpt-line-bot-serverless): A ChatGPT LINE bot based on Python and Serverless Framework.
 - [chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
 - [TextRL](https://github.com/voidful/TextRL): Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback)
 - [stackexplain](https://github.com/shobrook/stackexplain): Explain your error message with ChatGPT
@@ -243,6 +245,9 @@ APIs
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
+
+### LINE
+- [chatGPT-LINE-bot](https://github.com/ctjoy/chatgpt-line-bot-serverless): A ChatGPT LINE bot based on Python and Serverless Framework.
 
 ### Prompts
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
