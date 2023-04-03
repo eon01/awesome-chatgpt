@@ -2,15 +2,39 @@
 
 <div align="center">
     <h1>Awesome ChatGPT</h1>
+    <p>A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.</p>
+    Let's create the largest and most comprehensive list of ChatGPT tools and resources.
+</div>
+
+<br/>
+
+<div align="center">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
     <img src="https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social"/>
     <img src="https://img.shields.io/github/forks/eon01/awesome-chatgpt?style=social"/>
     <img src="https://img.shields.io/github/watchers/eon01/awesome-chatgpt?style=social"/>
     <img src="https://img.shields.io/github/last-commit/eon01/awesome-chatgpt?style=social"/>
     <img src="https://img.shields.io/github/contributors/eon01/awesome-chatgpt?style=social"/>
-    <b
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt"/>
 </div>
+
+<br/>
+
+<div align="center">
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt" href="https://twitter.com/intent/tweet?text=%E2%9A%99%EF%B8%8F%20A%20curated%20list%20of%20awesome%20ChatGPT%20resources,%20libraries,%20SDKs,%20APIs,%20and%20more.%0A%0A%0Ahttps%3A//github.com/eon01/awesome-chatgpt%0A%0A%23ChatGPT%20%23OpenAI%20%23AIAssistant%20%23ML%20%23AI%20"/>
+    <img src="https://img.shields.io/twitter/follow/joinFAUN?style=social"/ href="https://twitter.com/joinFAUN">
+</div>
+
+<br/>
+
+<div align="center">
+    <img src="https://img.shields.io/github/issues/eon01/awesome-chatgpt"/>
+    <img src="https://img.shields.io/github/issues-pr/eon01/awesome-chatgpt"/>
+    <img src="https://img.shields.io/github/issues-closed/eon01/awesome-chatgpt"/>
+    <img src="https://img.shields.io/github/issues-pr-closed/eon01/awesome-chatgpt"/>
+</div>
+
+<br/>
+
 
 ## Brought To You By
 
