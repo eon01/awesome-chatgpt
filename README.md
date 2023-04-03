@@ -2,7 +2,14 @@
 
 <div align="center">
     <h1>Awesome ChatGPT</h1>
-    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a>
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/>
+    <img src="https://img.shields.io/github/stars/eon01/awesome-chatgpt?style=social"/>
+    <img src="https://img.shields.io/github/forks/eon01/awesome-chatgpt?style=social"/>
+    <img src="https://img.shields.io/github/watchers/eon01/awesome-chatgpt?style=social"/>
+    <img src="https://img.shields.io/github/last-commit/eon01/awesome-chatgpt?style=social"/>
+    <img src="https://img.shields.io/github/contributors/eon01/awesome-chatgpt?style=social"/>
+    <b
+    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt"/>
 </div>
 
 ## Brought To You By
@@ -30,9 +37,6 @@
 
 # Table of Contents
 
-- [Brought To You By](#brought-to-you-by)
-  - [OpenAI GPT for Python Developers](#openai-gpt-for-python-developers)
-  - [Kala, My AI/ML Weekly Newsletter](#kala-my-aiml-weekly-newsletter)
 - [Follow \& Share](#follow--share)
 - [Call for Contributions](#call-for-contributions)
 - [Table of Contents](#table-of-contents)
@@ -69,8 +73,7 @@
     - [WeChat](#wechat)
     - [LINE](#line)
     - [Prompts](#prompts)
-  - [Vector databases](#vector-databases)
-    - [Weaviate](#weaviate)
+  - [Vector Databases](#vector-databases)
   - [AI Assistants](#ai-assistants)
   - [Web Apps](#web-apps)
   - [Desktop Apps](#desktop-apps)
