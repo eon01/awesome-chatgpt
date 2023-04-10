@@ -322,6 +322,7 @@ APIs
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 - 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
+- [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 
 # Stuff
 
