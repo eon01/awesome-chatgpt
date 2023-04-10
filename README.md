@@ -79,6 +79,7 @@
     - [Dart](#dart)
     - [Java](#java)
     - [.NET](#net)
+    - [Ruby](#ruby)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -212,6 +213,9 @@ APIs
 
 ### .NET
 - [ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net): Unofficial .Net Client for ChatGPT
+
+### Ruby
+- [ruby-openai](https://github.com/alexrudall/ruby-openai): Unofficial Ruby library to generate text with ChatGPT, transcribe and translate audio with Whisper, or create images with DALL·E
 
 ## Browser Extensions
 
