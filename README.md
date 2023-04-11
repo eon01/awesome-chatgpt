@@ -293,6 +293,7 @@ APIs
 - [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
 
 ## Vector Databases
+- [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector)
 - [Weaviate](https://github.com/weaviate/weaviate)
 
 ## AI Assistants
