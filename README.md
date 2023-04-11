@@ -167,6 +167,7 @@ APIs
 - [ChatGPT client (unofficial)](https://github.com/abhayptp/go-chatgpt)
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
+- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
 
 ### Rust
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
