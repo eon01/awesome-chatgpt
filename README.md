@@ -191,7 +191,7 @@ APIs
 - [chatgpt-api-wrapper](https://github.com/timkmecl/chatgpt-api-wrapper): Node.js wrapper for connecting to ChatGPT using official OpenAI API
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview): A code review bot powered by ChatGPT
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
-- [GPT Legion](https://github.com/eumemic/gpt-legion): A GPT-powered autonomous agent platform
+- [AI Legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
 
 ### Kotlin
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
