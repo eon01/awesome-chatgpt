@@ -36,19 +36,23 @@
 <br/>
 
 
-## Brought To You By
+# Sponsors
 
-## OpenAI GPT for Python Developers
+## 📚 OpenAI GPT for Python Developers Book 
 
-📚 [OpenAI GPT for Python Developers](https://leanpub.com/openaigptforpythondevelopers/) - The art and science of developing intelligent apps with GPT-3, DALL-E, and other OpenAI tools. A comprehensive and example-rich guide suitable for learners of all levels.
+[OpenAI GPT for Python Developers](https://leanpub.com/openaigptforpythondevelopers/) - The art and science of developing intelligent apps with GPT-3, DALL-E, and other OpenAI tools. A comprehensive and example-rich guide suitable for learners of all levels.
 
-[![OpenAI GPT for Python Developers](img/openai-gpt-for-python-developers.png)](https://leanpub.com/openaigptforpythondevelopers/)
+<!-- [![OpenAI GPT for Python Developers](img/openai-gpt-for-python-developers.png)](https://leanpub.com/openaigptforpythondevelopers/) -->
 
-## Kala, My AI/ML Weekly Newsletter
+## ❤️ Kala, AI/ML Weekly Newsletter
 
-❤️ [Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, jobs and more!.
+[Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, research papers, jobs and more. Delivered to your inbox every week.
 
-[![Kala](img/kala-ML-AI-Weekly-Newsletter.png)](https://faun.dev/newsletter/kala)
+<!-- [![Kala](img/kala-ML-AI-Weekly-Newsletter.png)](https://faun.dev/newsletter/kala) -->
+
+## 💌 Sponsorship
+
+If you would like to sponsor this project, please contact me at aymen at faun dot dev.
 
 # Follow & Share
 [![Twitter Follow](https://img.shields.io/twitter/follow/joinFAUN?style=social)](https://twitter.com/joinFAUN)
@@ -57,10 +61,14 @@
 # Call for Contributions
 👋 We value your contributions, feedback and suggestions. Please feel free to create a pull request or open an issue.
 
-**Note**: Only add resources that are related to ChatGPT and that are useful for developers (e.g: Github projects). 
+**Note**: Only add **Open Source** and **free** resources/tools that are related to ChatGPT/GPT and that are useful for developers (e.g: Open Source Github projects, SDKs, APIs, papers). 
 
 # Table of Contents
 
+- [Sponsors](#sponsors)
+  - [📚 OpenAI GPT for Python Developers Book](#-openai-gpt-for-python-developers-book)
+  - [❤️ Kala, AI/ML Weekly Newsletter](#️-kala-aiml-weekly-newsletter)
+  - [💌 Sponsorship](#-sponsorship)
 - [Follow \& Share](#follow--share)
 - [Call for Contributions](#call-for-contributions)
 - [Table of Contents](#table-of-contents)
