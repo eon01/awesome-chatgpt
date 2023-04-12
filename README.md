@@ -87,6 +87,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
     - [Dart](#dart)
     - [Java](#java)
     - [.NET](#net)
+    - [Ruby](#ruby)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -174,6 +175,7 @@ APIs
 - [ChatGPT client (unofficial)](https://github.com/abhayptp/go-chatgpt)
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
+- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
 
 ### Rust
 - [chatgpt-desktop](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
@@ -189,6 +191,7 @@ APIs
 - [chatgpt-api-wrapper](https://github.com/timkmecl/chatgpt-api-wrapper): Node.js wrapper for connecting to ChatGPT using official OpenAI API
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview): A code review bot powered by ChatGPT
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
+- [GPT Legion](https://github.com/eumemic/gpt-legion): A GPT-powered autonomous agent platform
 
 ### Kotlin
 - [chatgpt-android](https://github.com/skydoves/chatgpt-android): ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.
@@ -220,6 +223,9 @@ APIs
 
 ### .NET
 - [ChatGPT.Net](https://github.com/PawanOsman/ChatGPT.Net): Unofficial .Net Client for ChatGPT
+
+### Ruby
+- [ruby-openai](https://github.com/alexrudall/ruby-openai): Unofficial Ruby library to generate text with ChatGPT, transcribe and translate audio with Whisper, or create images with DALL·E
 
 ## Browser Extensions
 
@@ -296,6 +302,7 @@ APIs
 - [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
 
 ## Vector Databases
+- [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector)
 - [Weaviate](https://github.com/weaviate/weaviate)
 
 ## AI Assistants
@@ -326,6 +333,7 @@ APIs
 - [ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ChatGPT DAN, Jailbreaks prompt
 - 🇨🇳 [Awesome ChatGPT Prompts (zh)](https://github.com/PlexPt/awesome-chatgpt-prompts-zh): ChatGPT Chinese Tuning Guide
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
+- [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 
 # Stuff
 
