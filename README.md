@@ -50,6 +50,10 @@
 
 <!-- [![Kala](img/kala-ML-AI-Weekly-Newsletter.png)](https://faun.dev/newsletter/kala) -->
 
+## 🛍️ Show off your love for all things TECH
+If you're seeking a cozy sweatshirt to wear during your extended coding sessions or a mug to exhibit your passion for programming, [you can find it all here](https://bytevibe.co/)
+
+
 ## 💌 Sponsorship
 
 If you would like to sponsor this project, please contact me at aymen at faun dot dev.
@@ -68,6 +72,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
 - [Sponsors](#sponsors)
   - [📚 OpenAI GPT for Python Developers Book](#-openai-gpt-for-python-developers-book)
   - [❤️ Kala, AI/ML Weekly Newsletter](#️-kala-aiml-weekly-newsletter)
+  - [🛍️ Show off your love for all things TECH](#️-show-off-your-love-for-all-things-tech)
   - [💌 Sponsorship](#-sponsorship)
 - [Follow \& Share](#follow--share)
 - [Call for Contributions](#call-for-contributions)
