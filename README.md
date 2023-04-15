@@ -221,6 +221,7 @@ APIs
 - [openai_client](https://github.com/Azzeccagarbugli/openai_client): An unofficial, platform independent, client for accessing different AI models developed by OpenAI
 - [chat_gpt_flutter](https://github.com/hrvojecukman/chat_gpt_flutter): ChatGPT API implemented in Flutter
 - [flutter_chatgpt_api](https://pub.dev/packages/flutter_chatgpt_api): This package is a Flutter/Dart API around ChatGPT by OpenAI.
+- [ElevenAI](https://github.com/Souradeep1101/ElevenAI): Chat with a powerful AI bot and generate original images. Discover the possibilities of AI.
 
 ### Java
 - [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
