@@ -346,6 +346,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Web Apps
 
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+- [Poet.ly](https://poet.ly): Simply and quickly generate SEO-friendly articles of your blog referenced on Google, Google News, and others search engines.
 
 ## Desktop Apps
 
