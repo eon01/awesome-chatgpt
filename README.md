@@ -143,6 +143,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [README-AI](https://github.com/eli64s/readme-ai): Command-line tool for crafting aesthetic, structured, and informative README.md files, powered by OpenAI's language model API.
 - [chatgpt-api](https://github.com/taranjeet/chatgpt-api): This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper): API for interacting with ChatGPT using Python and from Shell.
+- [chatgpt-dev-friendly-wrapper](https://github.com/codeastra2/ChatGPTDevFriendly): Pip package over the ChatGPT Official API for more API robustness, metrics and easier development.
 - [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot): Integrate ChatGPT into your own discord bot
 - [chatGPT-LINE-bot](https://github.com/ctjoy/chatgpt-line-bot-serverless): A ChatGPT LINE bot based on Python and Serverless Framework.
 - [chatgpt-python](https://github.com/labteral/chatgpt-python): Unofficial Python SDK for OpenAI's ChatGPT
