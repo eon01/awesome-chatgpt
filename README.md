@@ -266,6 +266,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Terminal
 
 - [ai-cli](https://github.com/abhagsain/ai-cli): Get answers for CLI commands from GPT3 right from your terminal
+- [CommitAssist](https://github.com/dejorrit/commit-assist): Auto generate commit messages using ChatGPT
 
 ### NeoVim
 
