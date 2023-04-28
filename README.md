@@ -163,6 +163,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - 🇨🇳 [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
 - 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
+- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
+ 
 
 ### JavaScript
 
