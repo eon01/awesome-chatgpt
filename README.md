@@ -112,7 +112,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
     - [WeChat](#wechat)
     - [LINE](#line)
     - [Prompts](#prompts)
-  - [Vector Databases](#vector-databases)
+  - [Embeddings/Vector Databases](#embeddingsvector-databases)
   - [Plugins Store](#plugins-store)
   - [AI Assistants](#ai-assistants)
   - [Web Apps](#web-apps)
@@ -328,10 +328,12 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 - [showgpt.co](https://showgpt.co/): Curated ChatGPT prompts
 
-## Vector Databases
+## Embeddings/Vector Databases
 
-- [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector)
-- [Weaviate](https://github.com/weaviate/weaviate)
+- [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
+- [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
+- [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
+
 
 ## Plugins Store
 
