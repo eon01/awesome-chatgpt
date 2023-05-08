@@ -39,7 +39,7 @@
 
 ## 📚 OpenAI GPT for Python Developers Book
 
-[OpenAI GPT for Python Developers](https://leanpub.com/openaigptforpythondevelopers/) - The art and science of developing intelligent apps with GPT-3, DALL-E, and other OpenAI tools. A comprehensive and example-rich guide suitable for learners of all levels.
+OpenAI GPT for Python Developers - The art and science of developing intelligent apps with GPT, DALL-E, and other OpenAI tools. A comprehensive and example-rich guide suitable for learners of all levels. Get the book on [Leanpub](https://leanpub.com/openaigptforpythondevelopers/) or [Amazon](https://amzn.to/3B4QfZq)
 
 <!-- [![OpenAI GPT for Python Developers](img/openai-gpt-for-python-developers.png)](https://leanpub.com/openaigptforpythondevelopers/) -->
 
@@ -94,6 +94,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
     - [Java](#java)
     - [.NET](#net)
     - [Ruby](#ruby)
+    - [Delphi](#delphi)
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
@@ -243,6 +244,11 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Ruby
 
 - [ruby-openai](https://github.com/alexrudall/ruby-openai): Unofficial Ruby library to generate text with ChatGPT, transcribe and translate audio with Whisper, or create images with DALL·E
+
+### Delphi
+
+- [ChatGPT](https://github.com/HemulGM/ChatGPT): Delphi Chat GPT with FMX
+- [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI): OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
 
 ## Browser Extensions
 
