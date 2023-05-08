@@ -246,8 +246,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ruby-openai](https://github.com/alexrudall/ruby-openai): Unofficial Ruby library to generate text with ChatGPT, transcribe and translate audio with Whisper, or create images with DALL·E
 
 ### Delphi
-
-- [ChatGPT](https://github.com/HemulGM/ChatGPT): Delphi Chat GPT with FMX
 - [DelphiOpenAI](https://github.com/HemulGM/DelphiOpenAI): OpenAI API client for Delphi. Use ChatGPT, DALL-E and other products.
 
 ## Browser Extensions
@@ -364,6 +362,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Desktop App](https://github.com/sonnylazuardi/chatgpt-desktop): OpenAI ChatGPT desktop app for Mac, Windows, & Linux menubar using Tauri & Rust
 - [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 - [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
+- [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
 
 ## Twitter Bots
 
