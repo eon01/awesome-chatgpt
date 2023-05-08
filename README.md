@@ -357,6 +357,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Web Apps
 
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+- [Promptsandbox.io](https://app.promptsandbox.io): No-Code platform to build chatbots powered by OpenAI APIs
 
 ## Desktop Apps
 
