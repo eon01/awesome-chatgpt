@@ -368,6 +368,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot): Twitter bot powered by OpenAI's ChatGPT.
 
+## Mastodon Bots
+
+- [chatGPToot](https://github.com/skullzarmy/chatGPToot): Mastodon bot powered by OpenAI APIs including ChatGPT and DALL-E.
+
 ## Research, Papers & Articles
 
 - [ChatGPT-Comparison-Detection Project](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection): Human ChatGPT Comparison Corpus (HC3), Detectors, and more!
