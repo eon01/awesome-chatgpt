@@ -269,6 +269,16 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside search engine results.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 
+## Greasemonkey Userscripts
+
+- [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) ⏩ Automatically continue generating multiple ChatGPT responses 
+- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
+- [ChatGPT Infinity](https://chatgptevo.com/infinity) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+
 ## Integrations
 
 ### Terminal
@@ -337,11 +347,11 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### DuckDuckGo
 
-- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
 
 ### Brave Search
 
-- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
 
 ## Embeddings/Vector Databases
 
@@ -359,8 +369,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
-- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
-- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
 
 ## Web Apps
 
