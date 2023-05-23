@@ -165,7 +165,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
- 
 
 ### JavaScript
 
@@ -176,7 +175,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
 - [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
-
 
 ### Golang
 
@@ -350,7 +348,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
 - [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 - [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
-
 
 ## Plugins Store
 
