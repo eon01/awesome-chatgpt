@@ -165,7 +165,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
- 
 
 ### JavaScript
 
@@ -175,6 +174,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT-ProBot](https://github.com/oceanlvr/ChatGPT-ProBot): A GPTChat based GitHub robot. dialogue/CR/etc..
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - 🇨🇳 [wechat-bot](https://github.com/wangrongding/wechat-bot): a WeChat bot based on OpenAi ChatGPT + WeChaty that can be used to help you automatically reply to WeChat messages, or manage WeChat groups/friends, detect zombie fans, etc...
+- [chatgpt.js](https://chatgpt.js.org) 🤖 A powerful client-side JavaScript library for ChatGPT
 
 ### Golang
 
@@ -262,11 +262,22 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 - [ChatGPT Rewriter](https://github.com/sandaru1/chatgpt-chrome-extension): Rewrite the contents in inputs, textareas and editable content using ChatGPT.
+- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ### Firefox
 
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside search engine results.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
+
+## Greasemonkey Userscripts
+
+- [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+- [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) ⏩ Automatically continue generating multiple ChatGPT responses 
+- [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
+- [ChatGPT Infinity](https://chatgptevo.com/infinity) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
+- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ## Integrations
 
@@ -334,12 +345,19 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 
+### DuckDuckGo
+
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+
+### Brave Search
+
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+
 ## Embeddings/Vector Databases
 
 - [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
 - [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 - [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
-
 
 ## Plugins Store
 
@@ -351,6 +369,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
+- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
+- [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
 
 ## Web Apps
 
