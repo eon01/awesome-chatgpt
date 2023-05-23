@@ -264,7 +264,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 - [ChatGPT Rewriter](https://github.com/sandaru1/chatgpt-chrome-extension): Rewrite the contents in inputs, textareas and editable content using ChatGPT.
-- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- 🖥️ [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen): Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
 ### Firefox
 
@@ -339,7 +339,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### DuckDuckGo
 
-- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- 🐤 [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar
 
 ## Embeddings/Vector Databases
 
@@ -358,7 +358,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
-- [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar
+- 🐤 [DuckDuckGPT](https://www.duckduckgpt.com): Adds the magic of ChatGPT to DuckDuckGo sidebar
 
 ## Web Apps
 
