@@ -285,6 +285,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Infinity](https://chatgptevo.com/infinity) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
 
+## Bookmarklets
+
+- [ChatGPT Export](https://github.com/yaph/chatgpt-export) A browser bookmarklet for exporting conversations with ChatGPT as markdown files.
+
 ## Integrations
 
 ### Terminal
