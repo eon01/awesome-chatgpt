@@ -205,6 +205,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview): A code review bot powered by ChatGPT
 - 🇨🇳 [ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot): ChatGPT for wechat
 - [AI Legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
+- [Horizon AI Template](https://github.com/horizon-ui/chatgpt-ai-template): Trendiest Open-Source ChatGPT AI Template & Starter Kit for React & NextJS
 
 ### Kotlin
 
