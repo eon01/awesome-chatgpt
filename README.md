@@ -268,7 +268,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT): YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 - [ChatGPT Rewriter](https://github.com/sandaru1/chatgpt-chrome-extension): Rewrite the contents in inputs, textareas and editable content using ChatGPT.
-- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 
 ### Firefox
@@ -284,7 +284,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Auto-Continue](https://chatgptevo.com/autocontinue) ⏩ Automatically continue generating multiple ChatGPT responses 
 - [Autoclear ChatGPT History](https://chatgptevo.com/autoclear) 🕶️ Adds chat auto-clear functionality to ChatGPT for more privacy
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
-- [ChatGPT Widescreen Mode](https://chatgptevo.com/widescreen) 🖥️ Add Widescreen + Full-Window modes to ChatGPT for enhanced viewing
+- [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 
 ## Bookmarklets
 
