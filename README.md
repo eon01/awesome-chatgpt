@@ -378,6 +378,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## AI Assistants
 
+- [UltimateGPT](https://chatgpt. kiask.xyz): Ultimate ChatGPT AI Assistant.
+
 - [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
