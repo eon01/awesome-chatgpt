@@ -114,6 +114,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
     - [WeChat](#wechat)
     - [LINE](#line)
     - [Prompts](#prompts)
+    - [Emacs](#emacs)
   - [Embeddings/Vector Databases](#embeddingsvector-databases)
   - [Plugins Store](#plugins-store)
   - [AI Assistants](#ai-assistants)
