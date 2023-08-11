@@ -362,7 +362,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### Emacs
 
-- [gpt-commit](https://github.com/ywkim/gpt-commit): Generate conventional commit messages using GPT in Emacs
+- [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
 
 ### DuckDuckGo
 
