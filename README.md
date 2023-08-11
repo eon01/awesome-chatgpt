@@ -361,10 +361,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 
-### Emacs
-
-- [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
-
 ### DuckDuckGo
 
 - [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
@@ -372,6 +368,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Brave Search
 
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+
+### Emacs
+
+- [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
 
 ## Embeddings/Vector Databases
 
