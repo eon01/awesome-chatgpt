@@ -360,6 +360,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
 
+### Emacs
+
+- [gpt-commit](https://github.com/ywkim/gpt-commit): Generate conventional commit messages using GPT in Emacs
+
 ### DuckDuckGo
 
 - [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
