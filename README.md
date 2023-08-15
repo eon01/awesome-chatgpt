@@ -167,6 +167,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Applications of ChatGPT using Python with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language model based chatbots.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): 🧩 DemoGPT enables you to create quick demos by just using prompts on top of Langchain documenentation tree
+- [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
 
 ### JavaScript
 
