@@ -393,6 +393,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
 - [DuckDuckGPT](https://www.duckduckgpt.com) 🐤 Adds the magic of ChatGPT to DuckDuckGo sidebar (powered by GPT-4!)
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+- [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt): The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
 
 ## Web Apps
 
