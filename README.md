@@ -114,6 +114,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
     - [WeChat](#wechat)
     - [LINE](#line)
     - [Prompts](#prompts)
+    - [Emacs](#emacs)
   - [Embeddings/Vector Databases](#embeddingsvector-databases)
   - [Plugins Store](#plugins-store)
   - [AI Assistants](#ai-assistants)
@@ -368,6 +369,10 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Brave Search
 
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+
+### Emacs
+
+- [gpt-commit](https://github.com/ywkim/gpt-commit): An Emacs package that uses OpenAI's GPT model to automatically generate commit messages, aiming to save developers' time and increase efficiency.
 
 ## Embeddings/Vector Databases
 
