@@ -400,6 +400,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Web Apps
 
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+- [GPTyper](https://gptyper.net): Text editor with live GPT predictions and suggestions, similar to GitHub Copilot.
 
 ## Desktop Apps
 
