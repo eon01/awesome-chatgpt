@@ -99,6 +99,8 @@ If you would like to sponsor this project, please contact me at aymen at faun do
   - [Browser Extensions](#browser-extensions)
     - [Chrome](#chrome)
     - [Firefox](#firefox)
+  - [Greasemonkey Userscripts](#greasemonkey-userscripts)
+  - [Bookmarklets](#bookmarklets)
   - [Integrations](#integrations)
     - [Terminal](#terminal)
     - [NeoVim](#neovim)
@@ -114,6 +116,8 @@ If you would like to sponsor this project, please contact me at aymen at faun do
     - [WeChat](#wechat)
     - [LINE](#line)
     - [Prompts](#prompts)
+    - [DuckDuckGo](#duckduckgo)
+    - [Brave Search](#brave-search)
     - [Emacs](#emacs)
   - [Embeddings/Vector Databases](#embeddingsvector-databases)
   - [Plugins Store](#plugins-store)
@@ -121,6 +125,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
   - [Web Apps](#web-apps)
   - [Desktop Apps](#desktop-apps)
   - [Twitter Bots](#twitter-bots)
+  - [Mastodon Bots](#mastodon-bots)
   - [Research, Papers \& Articles](#research-papers--articles)
   - [Documentations, Tutorials \& Other Resources](#documentations-tutorials--other-resources)
 - [Stuff](#stuff)
@@ -400,6 +405,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Web Apps
 
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+- [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 
 ## Desktop Apps
 
