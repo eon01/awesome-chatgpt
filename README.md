@@ -189,6 +189,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ### Golang
 
+- [OpenAI API - ChatGPT, GPT-3, GPT-4, DALL·E, Whisper (unofficial)](https://github.com/sashabaranov/go-openai)
 - [aiac](https://github.com/gofireflyio/aiac): Artificial Intelligence Infrastructure-as-Code Generator.
 - [openaigo](https://github.com/otiai10/openaigo): OpenAI (ChatGPT) API Client for Go
 - [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp bot that uses Golang with a multichat option (chatgpt chatting with chatgpt).
