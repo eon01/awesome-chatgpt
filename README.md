@@ -39,9 +39,11 @@
 
 ## 📚 OpenAI GPT for Python Developers Book
 
-OpenAI GPT for Python Developers - The art and science of developing intelligent apps with GPT, DALL-E, and other OpenAI tools. A comprehensive and example-rich guide suitable for learners of all levels. Get the book on [Leanpub](https://leanpub.com/openaigptforpythondevelopers/) or [Amazon](https://amzn.to/3B4QfZq)
+OpenAI GPT For Python Developers - 2nd Edition: This guide emphasizes practical, hands-on learning and is designed to assist readers in building real-world applications. It is example-driven and provides numerous practical examples to help readers understand the concepts and apply them to real-life scenarios to solve real-world problems. You can get it on [Amazon](https://amzn.to/3uDRiQy)
 
-<!-- [![OpenAI GPT for Python Developers](img/openai-gpt-for-python-developers.png)](https://leanpub.com/openaigptforpythondevelopers/) -->
+## LLM Prompt Engineering For Developers Book
+
+LLM Prompt Engineering For Developers - The Art and Science of Unlocking LLMs' True Potential: "Such a comprehensive view over Prompt Engineering. It is hard to find a book of this quality and depth covering what is a very emergent field." ~ MR G STEWART (Amazon Review). You can get it on [Amazon](https://amzn.to/3UYCGpH)
 
 ## ❤️ Kala, AI/ML Weekly Newsletter
 
@@ -72,6 +74,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
 
 - [Sponsors](#sponsors)
   - [📚 OpenAI GPT for Python Developers Book](#-openai-gpt-for-python-developers-book)
+  - [LLM Prompt Engineering For Developers Book](#llm-prompt-engineering-for-developers-book)
   - [❤️ Kala, AI/ML Weekly Newsletter](#️-kala-aiml-weekly-newsletter)
   - [🛍️ Show off your love for all things TECH](#️-show-off-your-love-for-all-things-tech)
   - [💌 Sponsorship](#-sponsorship)
