@@ -413,6 +413,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
+- [Supernovas AI LLM](https://supernovasai.com): Powerful AI Workspace to Chat with AI Models + Your Data
   
 ## Desktop Apps
 
