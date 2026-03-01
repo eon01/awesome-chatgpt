@@ -21,6 +21,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Feon01%2Fawesome-chatgpt" href="https://twitter.com/intent/tweet?text=%E2%9A%99%EF%B8%8F%20A%20curated%20list%20of%20awesome%20ChatGPT%20resources,%20libraries,%20SDKs,%20APIs,%20and%20more.%0A%0A%0Ahttps%3A//github.com/eon01/awesome-chatgpt%0A%0A%23ChatGPT%20%23OpenAI%20%23AIAssistant%20%23ML%20%23AI%20"/>
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
     <img src="https://img.shields.io/twitter/follow/joinFAUN?style=social"/ href="https://twitter.com/joinFAUN">
 </div>
 
