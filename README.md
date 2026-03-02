@@ -414,6 +414,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
 - [Taskade](https://taskade.com): AI-native workspace platform with multi-model support (GPT-4o, Claude, Gemini) for building apps, deploying AI agents, and automating workflows.
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis): Personal genome analysis toolkit using LLM to analyze raw DNA data across 17 categories and generate a terminal-style HTML visualization.
 
 ## Desktop Apps
 
