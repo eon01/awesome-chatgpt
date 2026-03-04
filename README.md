@@ -178,6 +178,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): 🧩 DemoGPT enables you to create quick demos by just using prompts on top of Langchain documenentation tree
 - [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
 - [GPTRouter](https://github.com/Writesonic/gptrouter/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+- [Agent Gateway](https://agent-gateway-kappa.vercel.app) - Unified REST API gateway for AI agents — 40 services (GeoIP, crypto, DNS, screenshots, scraping, wallets, LLM routing, and more) accessible with one API key. 200 free credits, no signup.
 
 ### JavaScript
 
