@@ -443,6 +443,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 - [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
+- [Learn Agentic Patterns](https://learnagenticpatterns.com): Free interactive curriculum covering 21 agentic AI design patterns with code examples, architecture diagrams, and interactive decision-making games for developers.
 
 # Stuff
 
