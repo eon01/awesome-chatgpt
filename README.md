@@ -202,6 +202,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
 - [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
+- [BurnRate](https://github.com/burnrate-dev/burnrate): AI coding cost analytics CLI that tracks usage and costs across 7 providers (Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, Codex). Features real-time dashboard, 46 optimization rules, and rate limit monitoring.
 
 ### Rust
 
