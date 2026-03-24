@@ -446,6 +446,11 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 # Stuff
 
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=eon01/awesome-chatgpt&type=Date)](https://star-history.com/#eon01/awesome-chatgpt&Date)
