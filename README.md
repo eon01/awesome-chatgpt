@@ -421,6 +421,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 - [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored): All-in-one local AI desktop app for uncensored chat, image generation, and video creation. Powered by Ollama & ComfyUI. Runs 100% offline.
 
 ## Twitter Bots
 
