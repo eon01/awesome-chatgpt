@@ -48,6 +48,7 @@ LLM Prompt Engineering For Developers - The Art and Science of Unlocking LLMs' T
 ## ❤️ Kala, AI/ML Weekly Newsletter
 
 [Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, research papers, jobs and more. Delivered to your inbox every week.
+- [AI Digest](https://ai-digest.ru) - Russian-language portal with daily AI news, ChatGPT/Claude/Gemini guides, and LLM tutorials
 
 <!-- [![Kala](img/kala-ML-AI-Weekly-Newsletter.png)](https://faun.dev/newsletter/kala) -->
 
