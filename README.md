@@ -287,6 +287,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
+- [ChatGPT Toolbox](https://chromewebstore.google.com/detail/chatgpt-toolbox/jlalnhjkfiogoeonamcnngdndjbneina): All-in-one ChatGPT power user extension — full-text search history, folders, 300+ prompt library with chaining, bookmarks, DALL-E gallery, MP3 voice download, usage tracker, bulk export/delete/archive, and 40+ more features in 10 languages.
 
 ### Firefox
 
