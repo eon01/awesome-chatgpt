@@ -45,6 +45,7 @@ OpenAI GPT For Python Developers - 2nd Edition: This guide emphasizes practical,
 
 LLM Prompt Engineering For Developers - The Art and Science of Unlocking LLMs' True Potential: "Such a comprehensive view over Prompt Engineering. It is hard to find a book of this quality and depth covering what is a very emergent field." ~ MR G STEWART (Amazon Review). You can get it on [Amazon](https://amzn.to/3UYCGpH)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration. MIT licensed.
 ## ❤️ Kala, AI/ML Weekly Newsletter
 
 [Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, research papers, jobs and more. Delivered to your inbox every week.
