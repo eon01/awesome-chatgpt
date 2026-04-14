@@ -144,6 +144,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT app](https://chat.openai.com/)
 - [ChatGPT overview](https://openai.com/blog/chatgpt/)
 - [ChatGTP Discord](https://discord.com/invite/openai)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Developer Libraries, SDKs, and APIs
 
