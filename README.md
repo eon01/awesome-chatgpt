@@ -393,6 +393,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
 - [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 - [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
+- [SwarmVault](https://github.com/swarmclawai/swarmvault): Local-first RAG knowledge base compiler. Turns raw research (books, notes, transcripts, files, URLs, code) into a persistent markdown wiki, knowledge graph, and hybrid SQLite FTS plus embeddings. Built-in MCP server. ([swarmvault.ai](https://swarmvault.ai))
 
 ## Plugins Store
 
@@ -408,6 +409,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
 - [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt): The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner): Conversations with your files! Manage and run your AI presets!
+- [SwarmClaw](https://github.com/swarmclawai/swarmclaw): Self-hosted multi-agent AI runtime with MCP client and server support, persistent memory, skills, schedules, sub-agent spawning, and 23+ LLM providers including OpenAI. Ships as Electron desktop app, CLI, and Docker. ([swarmclaw.ai](https://swarmclaw.ai))
 
 ## Web Apps
 
