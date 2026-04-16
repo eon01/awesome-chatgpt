@@ -411,7 +411,9 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## Web Apps
 
+- [AI Dev Jobs](https://aidevboard.com): AI/ML job board with 5,300+ jobs and a REST API. Search AI engineering, ML research, and data science roles with filters for remote, salary, and experience level.
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
+- [Not Human Search](https://nothumansearch.ai): Search engine for AI agent tools. 1,400+ agent-first APIs and services indexed with agentic readiness scores. MCP server with six tools for programmatic discovery.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
 - [Taskade](https://taskade.com): AI-native workspace platform with multi-model support (GPT-4o, Claude, Gemini) for building apps, deploying AI agents, and automating workflows.
