@@ -456,3 +456,5 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 <a href="https://github.com/eon01/awesome-chatgpt/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=eon01/awesome-chatgpt" />
 </a>
+
+- [MeterCall](https://metercall.ai/?v=a&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
