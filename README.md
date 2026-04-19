@@ -178,6 +178,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT): 🧩 DemoGPT enables you to create quick demos by just using prompts on top of Langchain documenentation tree
 - [Embedchain](https://github.com/embedchain/embedchain): Framework to create ChatGPT like bots over your dataset.
 - [GPTRouter](https://github.com/Writesonic/gptrouter/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
+- [Text-Generator.io](https://text-generator.io): Unified text, vision, and speech API with ChatGPT-compatible endpoints for integrating multiple LLMs.
 
 ### JavaScript
 
@@ -314,6 +315,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ai-cli](https://github.com/abhagsain/ai-cli): Get answers for CLI commands from GPT3 right from your terminal
 - [CommitAssist](https://github.com/dejorrit/commit-assist): Auto generate commit messages using ChatGPT
 - [terminalGPT](https://github.com/jucasoliveira/terminalGPT): ChatGPT on your terminal.
+- [Codex Infinity](https://codex-infinity.com): Autonomous coding agent that runs on bare metal VPS with full root access and ChatGPT-compatible API support.
 
 ### NeoVim
 
@@ -415,6 +417,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
 - [Taskade](https://taskade.com): AI-native workspace platform with multi-model support (GPT-4o, Claude, Gemini) for building apps, deploying AI agents, and automating workflows.
+- [Netwrck](https://netwrck.com): AI character chat platform with voice, art generation, sharing, and API access.
 
 ## Desktop Apps
 
