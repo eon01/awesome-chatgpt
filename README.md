@@ -397,6 +397,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Plugins Store
 
 - [getit.ai](https://www.getit.ai/gpt-plugins): open plugin store for easy plugin installs.
+- [Voidly Censorship Action](https://github.com/voidly-ai/chatgpt-action): open-source GPT Action (openapi.yaml) that gives custom GPTs real-time access to internet censorship data across 126+ countries and 5,700+ citable incidents. Free API (CC BY 4.0).
 
 ## AI Assistants
 
