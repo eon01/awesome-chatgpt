@@ -393,6 +393,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Supabase w/pgvector](https://supabase.com/docs/guides/database/extensions/pgvector): pgvector is a PostgreSQL extension for vector similarity search. It can also be used for storing embeddings.
 - [Weaviate](https://github.com/weaviate/weaviate): An open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
 - [chroma](https://github.com/chroma-core/chroma): The AI-native open-source embedding database
+- [Dakera](https://github.com/dakera-ai/dakera-mcp): Self-hosted agent memory server with HNSW vector indexing, decay-weighted recall, and RocksDB persistence. MCP-native with multi-session support and cross-agent knowledge sharing. Python, JavaScript, Rust, and Go SDKs.
 
 ## Plugins Store
 
