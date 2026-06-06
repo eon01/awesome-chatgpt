@@ -409,6 +409,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt): The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner): Conversations with your files! Manage and run your AI presets!
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz): Trust + receipt layer MCP server for AI agents on Solana. Pre-dispatch trust gating, on-chain scoring, signed V5 trust receipts via x402 micropayment. 4 free tools + 1 paid. Zero-install: `https://intel.twzrd.xyz/mcp`.
+
 ## Web Apps
 
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
