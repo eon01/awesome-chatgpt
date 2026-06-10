@@ -397,6 +397,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Plugins Store
 
 - [getit.ai](https://www.getit.ai/gpt-plugins): open plugin store for easy plugin installs.
+- [CreatorSkills](https://creatorskills.co): Marketplace of 30+ AI skills (SKILL.md format) for content creators — YouTube scripting, sponsorship analysis, content repurposing, and audience growth. Compatible with Claude, ChatGPT, and 20+ AI platforms.
 
 ## AI Assistants
 
