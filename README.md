@@ -142,6 +142,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ## Official Resources
 
 - [ChatGPT app](https://chat.openai.com/)
+- [Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - [ChatGPT overview](https://openai.com/blog/chatgpt/)
 - [ChatGTP Discord](https://discord.com/invite/openai)
 
