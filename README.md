@@ -170,6 +170,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - 🇨🇳 [Openaibot](https://github.com/sudoskys/Openaibot): OpenAI Chat Bot For gram
 - 🇨🇳 [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot): OpenAI ChatGPT for Mirai QQ Bot
 - 🇨🇳 [QChatGPT](https://github.com/RockChinQ/QChatGPT): QQ robot bot developed based on OpenAI ChatGPT
+- [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot): Self-hosted QQ ↔ AI bot scaffold built on OneBot 11 / NapCat / LLOneBot with ACP-compatible agents, persistent sessions, progress streaming, `/metrics`, and a Docker demo stack.
 - 🇨🇳 [nonebot-plugin-chatgpt](https://github.com/A-kirami/nonebot-plugin-chatgpt): Smart Conversation Chat plugin for NoneBot2.
 - 🇨🇳 [ChineseAiDungeonChatGPT](https://github.com/bupticybee/ChineseAiDungeonChatGPT): AI dungeon using ChatGPT as the storytelling model
 - 🇨🇳 [nonebot2](https://github.com/nonebot/nonebot2): Asynchronous multi-platform chatbot framework written in Python
