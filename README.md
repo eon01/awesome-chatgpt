@@ -1,4 +1,4 @@
-[![Header](img/header.png)](https://faun.dev/newsletter/kala)
+[![Header](img/header.png)](https://faun.dev/topics/ailinks)
 
 <div align="center">
     <h1>Awesome ChatGPT</h1>
@@ -45,11 +45,9 @@ OpenAI GPT For Python Developers - 2nd Edition: This guide emphasizes practical,
 
 LLM Prompt Engineering For Developers - The Art and Science of Unlocking LLMs' True Potential: "Such a comprehensive view over Prompt Engineering. It is hard to find a book of this quality and depth covering what is a very emergent field." ~ MR G STEWART (Amazon Review). You can get it on [Amazon](https://amzn.to/3UYCGpH)
 
-## ❤️ Kala, AI/ML Weekly Newsletter
+## ❤️ AILinks, AI/ML Weekly Newsletter
 
-[Kala: AI/ML Weekly Newsletter](https://faun.dev/newsletter/kala) - Curated AI/ML news, tutorials, tools, research papers, jobs and more. Delivered to your inbox every week.
-
-<!-- [![Kala](img/kala-ML-AI-Weekly-Newsletter.png)](https://faun.dev/newsletter/kala) -->
+[AILinks: AI/ML Weekly Newsletter](https://faun.dev/topics/ailinks) - Curated AI/ML news, tutorials, tools, research papers, jobs and more. Delivered to your inbox every week.
 
 ## 🛍️ Show off your love for all things TECH
 
@@ -75,7 +73,7 @@ If you would like to sponsor this project, please contact me at aymen at faun do
 - [Sponsors](#sponsors)
   - [📚 OpenAI GPT for Python Developers Book](#-openai-gpt-for-python-developers-book)
   - [📚 LLM Prompt Engineering For Developers Book](#-llm-prompt-engineering-for-developers-book)
-  - [❤️ Kala, AI/ML Weekly Newsletter](#️-kala-aiml-weekly-newsletter)
+  - [❤️ AILinks, AI/ML Weekly Newsletter](#️-ailinks-aiml-weekly-newsletter)
   - [🛍️ Show off your love for all things TECH](#️-show-off-your-love-for-all-things-tech)
   - [💌 Sponsorship](#-sponsorship)
 - [Follow \& Share](#follow--share)
