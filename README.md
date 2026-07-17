@@ -373,6 +373,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Prompts
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
+- [Dev Launch Pack](https://github.com/aicompanyendlessinnovations/dev-launch-pack): Free tested prompt pack + tools for product launches — launch tweets, Show HN posts, README intros, changelogs. Includes a Launch Tweet Generator and Show HN Title Checker.
 
 ### DuckDuckGo
 
