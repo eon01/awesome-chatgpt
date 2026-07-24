@@ -413,6 +413,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
 - [Taskade](https://taskade.com): AI-native workspace platform with multi-model support (GPT-4o, Claude, Gemini) for building apps, deploying AI agents, and automating workflows.
+- [ChatVault](https://chat-export-seven.vercel.app/): Export your ChatGPT or Claude conversations to clean, printable PDFs. Free, no signup, runs entirely in your browser so nothing is uploaded. [Source](https://github.com/ImmortalDemonGod/chatvault).
 
 ## Desktop Apps
 
