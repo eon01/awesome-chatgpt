@@ -285,6 +285,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
+- [Burn Rate Coach](https://chromewebstore.google.com/detail/burn-rate-coach/kofionobchfmemihdnjhljplhlppdjmh): Local-first Chrome extension that adds pacing and at-reset forecasts to the usage balances Codex displays. No account or telemetry.
 
 ### Firefox
 
