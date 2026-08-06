@@ -420,6 +420,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 - [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
+- [BrainSoup](https://www.nurgo-software.com/products/brainsoup) Versatile multi-LLM client RAG, multi-modality, multi-agent automation, code interpreter, sandboxed file system and more.
 
 ## Twitter Bots
 
