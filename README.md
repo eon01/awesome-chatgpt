@@ -406,6 +406,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
 - [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt): The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner): Conversations with your files! Manage and run your AI presets!
+- [Scowld](https://github.com/apoorvdarshan/scowld): Free SwiftUI AI voice companion with animated characters, optional vision, saved conversations, and bring-your-own OpenAI and speech-provider keys.
 
 ## Web Apps
 
