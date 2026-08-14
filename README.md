@@ -447,7 +447,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=eon01/awesome-chatgpt&type=Date)](https://star-history.com/#eon01/awesome-chatgpt&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=eon01/awesome-chatgpt&type=Date)](https://star-history.dera.page/#eon01/awesome-chatgpt&Date)
 
 ## Thanks to all the contributors!
 
