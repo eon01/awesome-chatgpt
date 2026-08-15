@@ -413,6 +413,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
 - [Taskade](https://taskade.com): AI-native workspace platform with multi-model support (GPT-4o, Claude, Gemini) for building apps, deploying AI agents, and automating workflows.
+- [Eimu](https://eimu.art): Online GPT Image 2 & Nano Banana Pro generator with an OpenAI-compatible API — no API key or relay station setup required
 
 ## Desktop Apps
 
