@@ -406,6 +406,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
 - [Ultimate-ChatGPT](https://github.com/imabutahersiddik/ultimate-chatgpt): The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience.
 - [gpt-runner](https://github.com/nicepkg/gpt-runner): Conversations with your files! Manage and run your AI presets!
+- [Agent QA](https://github.com/vostride/agent-qa): Source-available QA agent for natural-language web and mobile tests using OpenAI-compatible model endpoints and persistent test memory.
 
 ## Web Apps
 
