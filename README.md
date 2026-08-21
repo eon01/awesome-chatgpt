@@ -285,6 +285,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
+- [Chat Threads](https://github.com/onyourmark/chat-threads): A side panel that reshapes a long ChatGPT or Claude conversation - read back only your own prompts, remove or edit individual turns, and split one conversation into separate topic conversations to continue elsewhere. Works on a copy, so the original is never modified.
 
 ### Firefox
 
