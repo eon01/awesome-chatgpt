@@ -285,6 +285,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
+- [VidWords](https://vidwords.com/extension): Chrome extension that captures a YouTube video's transcript in the tab and exports it as TXT, SRT, VTT or Word, with AI summaries, timestamped notes and an MCP server so ChatGPT and Claude can search the transcript themselves.
 
 ### Firefox
 
