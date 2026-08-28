@@ -145,6 +145,8 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## Developer Libraries, SDKs, and APIs
 
+- [SandBase CLI](https://github.com/sandbaseai/cli): Open-source command-line tool and MCP bridge for accessing 2,000+ AI models through one interface.
+
 ### Python
 
 - [ChatGPT](https://github.com/acheong08/ChatGPT): Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API
