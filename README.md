@@ -412,6 +412,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [Chat with GPT](https://github.com/cogentapps/chat-with-gpt): ChatGPT web UI made with TypeScript and React.
 - [OpenAgents](https://github.com/xlang-ai/OpenAgents) - Open source replicate of ChatGPT Plus products including Code Interpreter, Plugins and Web Browsing
 - [OpenAssistantGPT](https://github.com/marcolivierbouch/OpenAssistantGPT): An open source platform to build chatbot over the OpenAI Assistant API
+- [PasteGuard](https://github.com/ExtendedUser/pasteguard): Free browser-local scanner for API keys, tokens, and PII before pasting into ChatGPT/Claude — nothing is uploaded.
 - [Taskade](https://taskade.com): AI-native workspace platform with multi-model support (GPT-4o, Claude, Gemini) for building apps, deploying AI agents, and automating workflows.
 
 ## Desktop Apps
