@@ -420,6 +420,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT for Mac](https://github.com/vincelwt/chatgpt-mac): ChatGPT for Mac, living in your menubar.
 - [ChatGPT Desktop Application (Mac, Windows and Linux)](https://github.com/lencx/ChatGPT): ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ChatGPT](https://github.com/HemulGM/ChatGPT): ChatGPT Desktop Application (Windows, Mac, iOS, Android and Linux)
+- [Orkas](https://github.com/Orkas-AI/Orkas): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. Supports user-supplied OpenAI keys.
 
 ## Twitter Bots
 
