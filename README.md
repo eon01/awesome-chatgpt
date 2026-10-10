@@ -442,6 +442,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Python Applications](https://github.com/xiaowuc2/ChatGPT-Python-Applications) : Tutorials of ChatGPT using Python(with video) with third-party extensions, integrations with other tools, ports for different platforms, etc.
 - [LLM Introduction: Learn Language Models](https://gist.github.com/rain-1/eebd5e5eb2784feecf450324e3341c8d) : A curated list of useful focused intro resources for learning about LLMs.
 - [Connect ChatGPT to the Internet](https://github.com/mahseema/connect-chatgpt-to-internet): A complete tutorial to help connect free version of ChatGPT to the internet
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault): An archive of system prompts and tool schemas from shipped AI products, one directory per product — eight dated ChatGPT snapshots from 2025-02 to 2025-10, plus CLI agents recorded off the wire. Each artifact is labelled captured or reported, so a wire recording is never mixed with a model's own account of its prompt.
 
 # Stuff
 
