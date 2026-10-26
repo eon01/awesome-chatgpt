@@ -381,6 +381,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Brave Search
 
 - [BraveGPT](https://www.bravegpt.com) 🦁 Adds the magic of ChatGPT to Brave Search sidebar (powered by GPT-4!)
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ### Emacs
 
