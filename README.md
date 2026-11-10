@@ -285,6 +285,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT Widescreen Mode](https://chatgptwidescreen.com) 🖥️ Add Widescreen + Fullscreen modes to ChatGPT for enhanced viewing
 - [ChatGPT Infinity](https://chatgptinfinity.com) ∞ Generate endless answers from all-knowing ChatGPT (in any language!)
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper for meetings and any browser tab.
+- [ChatOutline Pro](https://github.com/SamLu574/chatoutline-pro): Floating table of contents, 1-click Markdown exporter (Obsidian/Notion), and Code Hub for ChatGPT, Claude, Gemini, and DeepSeek ([Edge Store](https://microsoftedge.microsoft.com/addons/detail/mmnmfeljpmjdpmpbelhnebldimmoaokb)).
 
 ### Firefox
 
