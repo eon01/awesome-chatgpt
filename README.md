@@ -291,6 +291,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension): A browser extension to display ChatGPT response alongside search engine results.
 - [ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension): A browser extension that enhance search engines with ChatGPT
 
+[ChatGPT to PDF](https://chromewebstore.google.com/detail/poboebmiaakclneagfgfmbakpgcgdfii) - Export ChatGPT history to PDF, MD, or JSON. Save GPT-4 conversations with code formatting and cloud sync.
 ## Greasemonkey Userscripts
 
 - [ChatGPT Auto Refresh](https://chatgptevo.com/autorefresh) ↻ Keeps ChatGPT sessions fresh to avoid network errors + Cloudflare checks
