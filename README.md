@@ -159,7 +159,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [TextRL](https://github.com/voidful/TextRL): Reinforcement learning in text generation with transformers - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback)
 - [stackexplain](https://github.com/shobrook/stackexplain): Explain your error message with ChatGPT
 - [gtp3-wordpress-post-generator](https://github.com/nicolaballotta/gtp3-wordpress-post-generator): A simple cli to generate WordPress posts using Gpt3 starting from a topic.
-- [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
 - [docGPT](https://github.com/cesarhuret/docGPT): ChatGPT directly within Google Docs as an Editor Add-on
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [PyGPT](https://github.com/PawanOsman/PyGPT): Python implementation of Unofficial ChatGPT Client
@@ -199,7 +198,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [ChatGPT client (unofficial)](https://github.com/abhayptp/go-chatgpt)
 - 🇨🇳 [wechatgpt](https://github.com/houko/wechatgpt): wechat chatgpt bot
 - 🇨🇳 [chatgpt-dingtalk](https://github.com/eryajf/chatgpt-dingtalk): Add ChatGPT robot to DingTalk group chat
-- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt]): DoctorGPT brings GPT into production for error diagnosing
+- [DoctorGPT](https://github.com/ingyamilmolinar/doctorgpt): DoctorGPT brings GPT into production for error diagnosing
 
 ### Rust
 
@@ -237,7 +236,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 - [chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api): Node.js client for the unofficial ChatGPT API.
 - [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing. Available as a Node.js module, REST API server, and CLI app.
 - [chatgpt-api-wrapper](https://github.com/timkmecl/chatgpt-api-wrapper): Node.js wrapper for connecting to ChatGPT using official OpenAI API
-- [Custom-ChatGPT](https://github.com/MohammadAtikurRahman/Custom-ChatGPT): A Custom ChatGPT built using React, Express, and Node.js. The chatbot is powered by OpenAI's text-davinci-003 language model and Custom dataset.
 - [completins](https://github.com/lucgagan/completions): Unofficial Node.js SDK for interactive with the ChatGPT completions API endpoint.
 
 ### Deno
@@ -255,7 +253,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Java
 
 - [chatgpt-web-api](https://github.com/swordintent/chatgpt-web-api): A Java Version ChatGPT SDK
-- [chatgpt-java](https://github.com/PlexPt/chatgpt-java): ChatGPT Java SDK. Uses reverse engineered official API.
 
 ### .NET
 
@@ -398,7 +395,6 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 
 ## AI Assistants
 
-- [emailGPT](https://github.com/lucasmccabe/emailGPT): a quick and easy interface to generate emails with ChatGPT
 - [summarize.site](https://github.com/clmnin/summarize.site): Summarize web pages using OpenAI ChatGPT
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation): Have a conversation with ChatGPT using your voice, and have it talk back.
 - [assistant-chat-gpt](https://github.com/idosal/assistant-chat-gpt): A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant
