@@ -373,6 +373,7 @@ A curated list of awesome ChatGPT resources, libraries, SDKs, APIs, and more.
 ### Prompts
 
 - [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): A curated list of ChatGPT prompts
+- [cn-personas](https://github.com/meiqiu912/cn-personas): Six ready-to-copy Chinese role-play persona prompt packs for practicing difficult conversations; MIT licensed.
 
 ### DuckDuckGo
 
